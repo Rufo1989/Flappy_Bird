@@ -1,0 +1,11 @@
+# ninja log v5
+0	34	7060583585700160	CMakeFiles/game.dir/game.cpp.o	ac7288107a67e8c8
+35	92	7060583586284294	C:/Users/Dino/AndroidStudioProjects/Flappy Bird/android/build/intermediates/cxx/Debug/564i5q1k/obj/x86_64/libgame.so	89b8d899cdb4bfbe
+1	186	7061112672334284	CMakeFiles/game.dir/game.cpp.o	ac7288107a67e8c8
+186	433	7061112674820291	C:/Users/Dino/AndroidStudioProjects/Flappy Bird/android/build/intermediates/cxx/Debug/564i5q1k/obj/x86_64/libgame.so	89b8d899cdb4bfbe
+0	14	0	clean	5cc79c60db2a4497
+1	130	7063102912450212	CMakeFiles/game.dir/game.cpp.o	ac7288107a67e8c8
+131	451	7063102915684007	C:/Users/Dino/AndroidStudioProjects/Flappy Bird/android/build/intermediates/cxx/Debug/564i5q1k/obj/x86_64/libgame.so	89b8d899cdb4bfbe
+0	16	0	clean	5cc79c60db2a4497
+1	77	7063103622694222	CMakeFiles/game.dir/game.cpp.o	ac7288107a67e8c8
+78	224	7063103624119529	C:/Users/Dino/AndroidStudioProjects/Flappy Bird/android/build/intermediates/cxx/Debug/564i5q1k/obj/x86_64/libgame.so	89b8d899cdb4bfbe

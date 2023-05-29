@@ -1,0 +1,1 @@
+C:\Users\Dino\AndroidStudioProjects\Flappy Bird\android\src\main\cpp\CMakeLists.txt

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Dino/AndroidStudioProjects/Flappy Bird/android/.cxx/Debug/564i5q1k/x86_64",
+  "command": "C:\\Users\\Dino\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=C:/Users/Dino/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgame_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\game.dir\\game.cpp.o -c \"C:\\Users\\Dino\\AndroidStudioProjects\\Flappy Bird\\android\\src\\main\\cpp\\game.cpp\"",
+  "file": "C:\\Users\\Dino\\AndroidStudioProjects\\Flappy Bird\\android\\src\\main\\cpp\\game.cpp"
+}
+]
